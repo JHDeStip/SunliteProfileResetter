@@ -1,0 +1,29 @@
+<Global Version="1.0" Oem="SUNLITE" Language="English" hTimer="25" Show="Standaard" ShowSorted="1" ShowOpenDialog="0" ShowSUTDialog="0" Multimedia="DirectShow" AutoDetectInterfaces="1" EthernetIP="0">
+  <Calendar>
+    <City Name="Arcachon" Latitude="44600" Longitude="-1160" />
+    <City Name="Avignon" Latitude="43950" Longitude="4820" />
+    <City Name="Bordeaux" Latitude="44830" Longitude="-570" />
+    <City Name="Brest" Latitude="48400" Longitude="-4480" />
+    <City Name="Charleville Mezizere" Latitude="49770" Longitude="4720" />
+    <City Name="Clermont-Ferrand" Latitude="45780" Longitude="3080" />
+    <City Name="Dijon" Latitude="47320" Longitude="5020" />
+    <City Name="Grenoble" Latitude="45170" Longitude="5720" />
+    <City Name="La Rochelle" Latitude="46170" Longitude="1170" />
+    <City Name="Lens" Latitude="50430" Longitude="2830" />
+    <City Name="Lille" Latitude="50630" Longitude="3070" />
+    <City Name="Lyon" Latitude="45750" Longitude="4850" />
+    <City Name="Marseille" Latitude="43300" Longitude="5400" />
+    <City Name="Metz" Latitude="49130" Longitude="6170" />
+    <City Name="Montpellier" Latitude="43600" Longitude="3880" />
+    <City Name="Nantes" Latitude="47220" Longitude="-1550" />
+    <City Name="Nice" Latitude="43700" Longitude="7250" />
+    <City Name="Nimes" Latitude="43830" Longitude="4350" />
+    <City Name="Paris" Latitude="48870" Longitude="2330" />
+    <City Name="Perpignan" Latitude="42680" Longitude="2880" />
+    <City Name="Reims" Latitude="49250" Longitude="4030" />
+    <City Name="Rennes" Latitude="48080" Longitude="-1600" />
+    <City Name="Saint Nazaire" Latitude="47280" Longitude="-2200" />
+    <City Name="Strasbourg" Latitude="48580" Longitude="7750" />
+    <City Name="Toulouse" Latitude="43600" Longitude="1430" />
+  </Calendar>
+</Global>
